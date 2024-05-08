@@ -2,7 +2,7 @@ from unittest import TestCase
 
 import pandas as pd
 
-from train.train import clean_data
+from train import clean_data
 
 
 class TestTrain(TestCase):
